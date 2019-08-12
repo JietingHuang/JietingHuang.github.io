@@ -1,4 +1,4 @@
-/******/ (function (modules) { // webpackBootstrap
+/******/ (function(modules) { // webpackBootstrap
 /******/ 	// The module cache
 /******/ 	var installedModules = {};
 /******/
@@ -6,17 +6,15 @@
 /******/ 	function __webpack_require__(moduleId) {
 /******/
 /******/ 		// Check if module is in cache
-/******/ 		if (installedModules[moduleId]) {
+/******/ 		if(installedModules[moduleId]) {
 /******/ 			return installedModules[moduleId].exports;
-      /******/
-    }
+/******/ 		}
 /******/ 		// Create a new module (and put it into the cache)
 /******/ 		var module = installedModules[moduleId] = {
 /******/ 			i: moduleId,
 /******/ 			l: false,
 /******/ 			exports: {}
-      /******/
-    };
+/******/ 		};
 /******/
 /******/ 		// Execute the module function
 /******/ 		modules[moduleId].call(module.exports, module, module.exports, __webpack_require__);
@@ -26,8 +24,7 @@
 /******/
 /******/ 		// Return the exports of the module
 /******/ 		return module.exports;
-    /******/
-  }
+/******/ 	}
 /******/
 /******/
 /******/ 	// expose the modules object (__webpack_modules__)
@@ -37,53 +34,47 @@
 /******/ 	__webpack_require__.c = installedModules;
 /******/
 /******/ 	// define getter function for harmony exports
-/******/ 	__webpack_require__.d = function (exports, name, getter) {
-/******/ 		if (!__webpack_require__.o(exports, name)) {
+/******/ 	__webpack_require__.d = function(exports, name, getter) {
+/******/ 		if(!__webpack_require__.o(exports, name)) {
 /******/ 			Object.defineProperty(exports, name, { enumerable: true, get: getter });
-      /******/
-    }
-    /******/
-  };
+/******/ 		}
+/******/ 	};
 /******/
 /******/ 	// define __esModule on exports
-/******/ 	__webpack_require__.r = function (exports) {
-/******/ 		if (typeof Symbol !== 'undefined' && Symbol.toStringTag) {
+/******/ 	__webpack_require__.r = function(exports) {
+/******/ 		if(typeof Symbol !== 'undefined' && Symbol.toStringTag) {
 /******/ 			Object.defineProperty(exports, Symbol.toStringTag, { value: 'Module' });
-      /******/
-    }
+/******/ 		}
 /******/ 		Object.defineProperty(exports, '__esModule', { value: true });
-    /******/
-  };
+/******/ 	};
 /******/
 /******/ 	// create a fake namespace object
 /******/ 	// mode & 1: value is a module id, require it
 /******/ 	// mode & 2: merge all properties of value into the ns
 /******/ 	// mode & 4: return value when already ns object
 /******/ 	// mode & 8|1: behave like require
-/******/ 	__webpack_require__.t = function (value, mode) {
-/******/ 		if (mode & 1) value = __webpack_require__(value);
-/******/ 		if (mode & 8) return value;
-/******/ 		if ((mode & 4) && typeof value === 'object' && value && value.__esModule) return value;
+/******/ 	__webpack_require__.t = function(value, mode) {
+/******/ 		if(mode & 1) value = __webpack_require__(value);
+/******/ 		if(mode & 8) return value;
+/******/ 		if((mode & 4) && typeof value === 'object' && value && value.__esModule) return value;
 /******/ 		var ns = Object.create(null);
 /******/ 		__webpack_require__.r(ns);
 /******/ 		Object.defineProperty(ns, 'default', { enumerable: true, value: value });
-/******/ 		if (mode & 2 && typeof value != 'string') for (var key in value) __webpack_require__.d(ns, key, function (key) { return value[key]; }.bind(null, key));
+/******/ 		if(mode & 2 && typeof value != 'string') for(var key in value) __webpack_require__.d(ns, key, function(key) { return value[key]; }.bind(null, key));
 /******/ 		return ns;
-    /******/
-  };
+/******/ 	};
 /******/
 /******/ 	// getDefaultExport function for compatibility with non-harmony modules
-/******/ 	__webpack_require__.n = function (module) {
+/******/ 	__webpack_require__.n = function(module) {
 /******/ 		var getter = module && module.__esModule ?
 /******/ 			function getDefault() { return module['default']; } :
 /******/ 			function getModuleExports() { return module; };
 /******/ 		__webpack_require__.d(getter, 'a', getter);
 /******/ 		return getter;
-    /******/
-  };
+/******/ 	};
 /******/
 /******/ 	// Object.prototype.hasOwnProperty.call
-/******/ 	__webpack_require__.o = function (object, property) { return Object.prototype.hasOwnProperty.call(object, property); };
+/******/ 	__webpack_require__.o = function(object, property) { return Object.prototype.hasOwnProperty.call(object, property); };
 /******/
 /******/ 	// __webpack_public_path__
 /******/ 	__webpack_require__.p = "./";
@@ -91,210 +82,225 @@
 /******/
 /******/ 	// Load entry module and return exports
 /******/ 	return __webpack_require__(__webpack_require__.s = "./source-src/main.js");
-  /******/
-})
+/******/ })
 /************************************************************************/
-/******/({
+/******/ ({
 
 /***/ "./source-src/main.js":
 /*!****************************!*\
   !*** ./source-src/main.js ***!
   \****************************/
 /*! no exports provided */
-/***/ (function (module, __webpack_exports__, __webpack_require__) {
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
 
-        "use strict";
-        __webpack_require__.r(__webpack_exports__);
-/* harmony import */ var _main_scss__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./main.scss */ "./source-src/main.scss");
-/* harmony import */ var _main_scss__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_main_scss__WEBPACK_IMPORTED_MODULE_0__);
-/* harmony import */ var _trianglify_min_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./trianglify.min.js */ "./source-src/trianglify.min.js");
-/* harmony import */ var _trianglify_min_js__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_trianglify_min_js__WEBPACK_IMPORTED_MODULE_1__);
-
-
-
-        //article page Topbar and title banckground
-        function pattern(width = window.innerWidth) {
-          return _trianglify_min_js__WEBPACK_IMPORTED_MODULE_1___default()({
-            width,
-            height: 230,
-            variance: 0.56,
-            cell_size: 46,
-            x_colors: 'random',
-            y_colors: 'match_x',
-            palette: _trianglify_min_js__WEBPACK_IMPORTED_MODULE_1___default.a.colorbrewer,
-            color_space: 'lab',
-            color_function: false,
-            stroke_width: 1.2,
-            seed: window.location.href
-          });
-        }
-
-        const pageFirstChild = document.querySelector('.navbar-header');
-        if (pageFirstChild) {
-          document.body.insertBefore(pattern().canvas(), pageFirstChild);
-          deletePatternPlaceholder();
-          toggleHeaderNavBar();
-        }
-
-        window.addEventListener('resize', function () {
-          const bodyFirstElement = document.body.firstElementChild
-          const firstElementTagName = bodyFirstElement.tagName;
-          if (firstElementTagName === 'CANVAS') {
-            document.body.removeChild(bodyFirstElement);
-            document.body.insertBefore(pattern().canvas(), pageFirstChild);
-          }
+  "use strict";
+  __webpack_require__.r(__webpack_exports__);
+  /* harmony import */ var _main_scss__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./main.scss */ "./source-src/main.scss");
+  /* harmony import */ var _main_scss__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_main_scss__WEBPACK_IMPORTED_MODULE_0__);
+  /* harmony import */ var _trianglify_min_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./trianglify.min.js */ "./source-src/trianglify.min.js");
+  /* harmony import */ var _trianglify_min_js__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_trianglify_min_js__WEBPACK_IMPORTED_MODULE_1__);
+  
+  
+  
+  //article page Topbar and title banckground
+  function pattern(width = window.innerWidth) {
+    return _trianglify_min_js__WEBPACK_IMPORTED_MODULE_1___default()({
+      width,
+      height: 230,
+      variance: 0.56,
+      cell_size: 46,
+      x_colors: 'random',
+      y_colors: 'match_x',
+      palette: _trianglify_min_js__WEBPACK_IMPORTED_MODULE_1___default.a.colorbrewer,
+      color_space: 'lab',
+      color_function: false,
+      stroke_width: 1.2,
+      seed: window.location.href
+    });
+  }
+  
+  const pageFirstChild = document.querySelector('.navbar-header');
+  if (pageFirstChild) {
+    document.body.insertBefore(pattern().canvas(), pageFirstChild);
+    deletePatternPlaceholder();
+    toggleHeaderNavBar();
+  }
+  
+  window.addEventListener('resize', function() {
+    const bodyFirstElement = document.body.firstElementChild
+    const firstElementTagName = bodyFirstElement.tagName;
+    if (firstElementTagName === 'CANVAS') {
+      document.body.removeChild(bodyFirstElement);
+      document.body.insertBefore(pattern().canvas(), pageFirstChild);
+    }
+  });
+  
+  function deletePatternPlaceholder() {
+    const patternPlaceholder = document.getElementById('pattern-placeholder');
+    const parent = patternPlaceholder.parentElement;
+    parent.removeChild(patternPlaceholder);
+  }
+  
+  function toggleHeaderNavBar() {
+    document.addEventListener('scroll', function() {
+      const offset = window.pageYOffset;
+      if (offset > 128) {
+        pageFirstChild.classList.add('fixed-header');
+      }
+      if (offset <= 128) {
+        pageFirstChild.classList.remove('fixed-header');
+      }
+    });
+  }
+  
+  function hiddenSearchResultBox() {
+    document.querySelector('.search-result-box').style.display = 'none';
+  }
+  
+  // search
+  var searchData;
+  var search = document.getElementById('search');
+  
+  if(search) {
+    search.addEventListener('input', function(e) {
+      var key = this.value.trim();
+      if (!key) {
+        hiddenSearchResultBox();
+        return;
+      }
+  
+      var regExp = new RegExp(key.replace(/[ ]/g, '|'), 'gmi');
+  
+      loadData(function (data) {
+        var result = data.filter(function (post) {
+          return matcher(post, regExp);
         });
-
-        function deletePatternPlaceholder() {
-          const patternPlaceholder = document.getElementById('pattern-placeholder');
-          const parent = patternPlaceholder.parentElement;
-          parent.removeChild(patternPlaceholder);
+  
+        render(result);
+  
+        keyDown();
+      });
+  
+      e.preventDefault();
+    });
+  }
+  
+  function loadData(success) {
+  
+    if (!searchData) {
+      var xhr = new XMLHttpRequest();
+      xhr.open('GET', '/content.json', true);
+  
+      xhr.onload = function () {
+        if (this.status >= 200 && this.status < 300) {
+          var res = JSON.parse(this.response);
+          searchData = res instanceof Array ? res : res.posts;
+          success(searchData);
+        } else {
+          console.error(this.statusText);
         }
-
-        function toggleHeaderNavBar() {
-          document.addEventListener('scroll', function () {
-            const offset = window.pageYOffset;
-            if (offset > 128) {
-              pageFirstChild.classList.add('fixed-header');
-            }
-            if (offset <= 128) {
-              pageFirstChild.classList.remove('fixed-header');
-            }
-          });
-        }
-
-        function hiddenSearchResultBox() {
-          document.querySelector('.search-result-box').style.display = 'none';
-        }
-
-        // search
-        var searchData;
-        var search = document.getElementById('search');
-
-        if (search) {
-          search.addEventListener('input', function (e) {
-            var key = this.value.trim();
-            if (!key) {
-              hiddenSearchResultBox();
-              return;
-            }
-
-            var regExp = new RegExp(key.replace(/[ ]/g, '|'), 'gmi');
-
-            loadData(function (data) {
-              var result = data.filter(function (post) {
-                return matcher(post, regExp);
-              });
-
-              render(result);
-
-              keyDown();
-            });
-
-            e.preventDefault();
-          });
-        }
-
-        function loadData(success) {
-
-          if (!searchData) {
-            var xhr = new XMLHttpRequest();
-            xhr.open('GET', '/content.json', true);
-
-            xhr.onload = function () {
-              if (this.status >= 200 && this.status < 300) {
-                var res = JSON.parse(this.response);
-                searchData = res instanceof Array ? res : res.posts;
-                success(searchData);
-              } else {
-                console.error(this.statusText);
-              }
-            };
-
-            xhr.onerror = function () {
-              console.error(this.statusText);
-            };
-
-            xhr.send();
-
-          } else {
-            success(searchData);
+      };
+  
+      xhr.onerror = function () {
+        console.error(this.statusText);
+      };
+  
+      xhr.send();
+  
+    } else {
+      success(searchData);
+    }
+  }
+  
+  function render(data) {
+    var html = '';
+    if (data.length > 0) {
+  
+      html = data.map(function (post, i) {
+          if (i == 0) {
+          return '<li><a href='+ window.location.origin + '/'+ post.path +'>' + post.title + '</a><span class="search-enter"> 🚀 </span></li>';
           }
-        }
-
-        function render(data) {
-          var html = '';
-          if (data.length > 0) {
-
-            html = data.map(function (post, i) {
-              if (i == 0) {
-                return '<li><a href=' + window.location.origin + '/' + post.path + '>' + post.title + '</a><span class="search-enter"> 🚀 </span></li>';
-              }
-              return '<li><a href=' + window.location.origin + '/' + post.path + '>' + post.title + '</a></li>';
-            });
-
-            if (html) {
-              document.querySelector('.search-result-box').style.display = 'block';
-            }
-            var result = document.getElementById('search-result');
-            result.innerHTML = html.join('');
-            return;
-          }
-          if (!data || data.length <= 0) {
-            hiddenSearchResultBox();
-          }
-        }
-
-        function keyDown() {
-          document.addEventListener('keydown', (event) => {
-            var keyCode = event.keyCode;
-            var ENTER = 13;
-            if (keyCode == ENTER) {
-              var searchResult = document.getElementById('search-result');
-              var firstLiTag = searchResult.firstChild;
-              var firstATag = firstLiTag && firstLiTag.firstChild;
-              var href = firstATag && firstATag.href;
-              window.location.href = href;
-            }
-          });
-        }
-
-        function matcher(post, regExp) {
-          return regtest(post.title, regExp);
-        }
-
-        function regtest(raw, regExp) {
-          regExp.lastIndex = 0;
-          return regExp.test(raw);
-        }
-
-
-        // 显示文章长时间未更新提醒
-        var overdueRemindDom = document.querySelector('.overdue-remind');
-        var overdueRemindText = overdueRemindDom && overdueRemindDom.textContent;
-        var postUpdateDateDom = document.querySelector("time[itemprop='dateUpdated']");
-        var postUpdateDate = postUpdateDateDom && postUpdateDateDom.textContent;
-        if (overdueRemindText && overdueRemindDom) {
-          var now = Date.parse(new Date());
-          var postLastTime = Date.parse(postUpdateDate);
-          var dayNum = parseInt((now - postLastTime) / (1000 * 60 * 60 * 24));
-          overdueRemindDom.innerHTML = overdueRemindText.replace(/\$day/, '<span> ' + dayNum + ' </span>');
-        }
-
-        var navSearch = document.getElementById('nav-search');
-        var searchBox = document.querySelector('.search-box');
-        navSearch.addEventListener('mouseover', () => {
-          navSearch.style.display = 'none';
-          if (searchBox) { searchBox.style.display = 'block'; }
-          search.focus();
-        });
-
-        search.addEventListener('blur', (event) => {
-          navSearch.style.display = 'block';
-          if (searchBox) { searchBox.style.display = 'none'; };
-          search.value = '';
-          hiddenSearchResultBox();
-        });
+          return '<li><a href='+ window.location.origin + '/' + post.path +'>' + post.title + '</a></li>';
+      });
+  
+      if (html) {
+        document.querySelector('.search-result-box').style.display = 'block';
+      }
+      var result = document.getElementById('search-result');
+      result.innerHTML = html.join('');
+      return;
+    }
+    if (!data || data.length <= 0) {
+      hiddenSearchResultBox();
+    }
+  }
+  
+  function keyDown() {
+    document.addEventListener('keydown', (event) => {
+      var keyCode = event.keyCode;
+      var ENTER = 13;
+      if (keyCode == ENTER ) {
+        var searchResult = document.getElementById('search-result');
+        var firstLiTag = searchResult.firstChild;
+        var firstATag = firstLiTag && firstLiTag.firstChild;
+        var href = firstATag && firstATag.href;
+        window.location.href = href;
+      }
+    });
+  }
+  
+  function matcher(post, regExp) {
+    return regtest(post.title, regExp);
+  }
+  
+  function regtest(raw, regExp) {
+    regExp.lastIndex = 0;
+    return regExp.test(raw);
+  }
+  
+  
+  // 显示文章长时间未更新提醒
+  var overdueRemindDom = document.querySelector('.overdue-remind');
+  var overdueRemindText = overdueRemindDom && overdueRemindDom.textContent;
+  var postUpdateDateDom = document.querySelector("time[itemprop='dateUpdated']");
+  var postUpdateDate = postUpdateDateDom && postUpdateDateDom.textContent;
+  if (overdueRemindText && overdueRemindDom) {
+    var now = Date.parse(new Date());
+    var postLastTime = Date.parse(postUpdateDate);
+    var dayNum = parseInt((now - postLastTime) / (1000 * 60 * 60 * 24));
+    overdueRemindDom.innerHTML = overdueRemindText.replace(/\$day/, '<span> ' + dayNum + ' </span>');
+  }
+  
+  var navMenu = document.getElementById('nav-menu');
+  var searchContainer = document.querySelector('.search');
+  navMenu.addEventListener('click', () => {
+    var leftAside = document.querySelector('.left-aside');
+    var rightAside = document.querySelector('.right-aside');
+    var rightMain = document.querySelector('.right-main');
+    if (leftAside) { leftAside.style.display = 'none'}
+    if (rightAside) { rightAside.style.marginLeft = 'unset'}
+    if (searchContainer) {searchContainer.style.right = '70px';}
+    if (rightMain) {
+      rightMain.style.float = 'unset';
+      rightMain.style.margin = '65px auto';
+      rightMain.style.width = '800px';
+    };
+  });
+  
+  var navSearch = document.getElementById('nav-search');
+  var searchBox = document.querySelector('.search-box');
+  navSearch.addEventListener('mouseover', () => {
+    navSearch.style.display = 'none';
+    if (searchBox) { searchBox.style.display = 'block';}
+    search.focus();
+  });
+  
+  search.addEventListener('blur', (event) => {
+    navSearch.style.display = 'block';
+    if (searchBox) { searchBox.style.display = 'none';};
+    search.value = '';
+    hiddenSearchResultBox();
+  });
 
 
         /***/
