@@ -144,7 +144,7 @@ svg.icon {
   right: 395px;
   position: relative; }
   .search .search-box {
-    display: none;
+    display: block;
     margin-right: 50px; }
   .search .input-search {
     margin: 8px -31px 0  0;
