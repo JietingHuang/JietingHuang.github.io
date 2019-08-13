@@ -112,6 +112,7 @@
         <div class="comments" id="comments">
           
   <script src="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.min.js"></script>
+  <script src="/js/src/md5.min.js"></script>
   <script type="text/javascript">
     const gitalk = new Gitalk({
       clientID: 'a8b8d199621908b4bf3b',
@@ -119,7 +120,7 @@
       repo: 'JietingHuang.github.io',
       owner: 'JietingHuang',
       admin: ['JietingHuang'],
-      id: location.pathname, // Ensure uniqueness and length less than 50
+      id: md5(location.pathname), // Ensure uniqueness and length less than 50
       distractionFreeMode: false
     })
     gitalk.render('comments');
