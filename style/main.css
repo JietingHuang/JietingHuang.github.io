@@ -472,7 +472,7 @@ svg.icon {
   margin-bottom: 25px; }
 
 .article .support-author {
-  padding: 25px;
+  padding: 20px;
   margin-bottom: 40px;
   background-color: whitesmoke;
   border-left: 4px solid #49be38;
@@ -482,7 +482,7 @@ svg.icon {
   margin: 50px auto; }
 
 .article .support-author p {
-  margin: 0 auto 10px;
+  margin: 0 auto 0;
   font-size: 17px;
   font-weight: bold; }
 
