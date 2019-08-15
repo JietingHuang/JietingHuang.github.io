@@ -104,7 +104,7 @@
         
           <!-- 打赏功能 -->
 <script type="text/javascript">
-	document.getElementById('btn_donate').onclick = function(){
+	if(document.getElementById('btn_donate').onclick){
 		$('#donate_board').addClass('hidden');
 		$('#donate_guide').removeClass('hidden');
 	}

@@ -104,7 +104,7 @@ U2FsdGVkX19Q0jWdSEw315zN37W7AjnJOAgG8DdyuB1Zu8D7XmL9uIp4CTb/sTG6hLbqhWfiCqmQQl5B
         
           <!-- 打赏功能 -->
 <script type="text/javascript">
-	document.getElementById('btn_donate').onclick = function(){
+	if(document.getElementById('btn_donate').onclick){
 		$('#donate_board').addClass('hidden');
 		$('#donate_guide').removeClass('hidden');
 	}
