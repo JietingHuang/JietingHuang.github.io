@@ -4,8 +4,8 @@
         var ps = {
             w:40,
             h:40,
-            dImg:"../img/up-d.png",
-            hImg:"../img/up-db.png",
+            dImg:"/img/up-d.png",
+            hImg:"/img/up-db.png",
             bt:40,
             rg:30,
             s:70,
