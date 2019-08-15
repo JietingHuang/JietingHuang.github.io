@@ -197,12 +197,12 @@
           searchData = res instanceof Array ? res : res.posts;
           success(searchData);
         } else {
-          console.error(this.statusText);
+          alert.error(this.statusText);
         }
       };
   
       xhr.onerror = function () {
-        console.error(this.statusText);
+        alert.error(this.statusText);
       };
   
       xhr.send();
@@ -218,7 +218,7 @@
   
       html = data.map(function (post, i) {
           if (i == 0) {
-          return '<li><a href='+ window.location.origin + '/'+ post.path +'>' + post.title + '</a><span class="search-enter"> 🚀 </span></li>';
+          return '<li><a href='+ window.location.origin + '/'+ post.path +'>' + post.title + '</a><span class="search-enter"> </span></li>';
           }
           return '<li><a href='+ window.location.origin + '/' + post.path +'>' + post.title + '</a></li>';
       });
