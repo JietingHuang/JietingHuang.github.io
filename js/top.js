@@ -6,8 +6,8 @@
             h:40,
             dImg:"/img/up-d.png",
             hImg:"/img/up-db.png",
-            bt:40,
-            rg:30,
+            bt:100,
+            rg:0,
             s:70,
             th:300
         }
