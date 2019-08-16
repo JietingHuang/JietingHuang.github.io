@@ -6,7 +6,7 @@
   <link href="/JietingHuang.github.io/atom.xml" rel="self"/>
   
   <link href="http://JietingHuang.github.io/"/>
-  <updated>2019-08-15T10:17:37.523Z</updated>
+  <updated>2019-08-16T03:28:37.440Z</updated>
   <id>http://JietingHuang.github.io/</id>
   
   <author>
@@ -17,17 +17,50 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>亲献</title>
-    <link href="http://JietingHuang.github.io/2019/08/15/love-poem/"/>
-    <id>http://JietingHuang.github.io/2019/08/15/love-poem/</id>
+    <title>笔波文</title>
+    <link href="http://JietingHuang.github.io/2019/08/15/poem-wenbo/"/>
+    <id>http://JietingHuang.github.io/2019/08/15/poem-wenbo/</id>
     <published>2019-08-15T10:16:41.000Z</published>
-    <updated>2019-08-15T10:17:37.523Z</updated>
+    <updated>2019-08-16T03:28:37.440Z</updated>
     
-    <content type="html"><![CDATA[<script src="https://ajax.aspnetcdn.com/ajax/jQuery/jquery-3.4.1.min.js"></script><div id="hbe-security">  <div class="hbe-input-container">  <input type="password" class="hbe-form-control" id="pass" placeholder="Please enter the password to read the blog." />    <label for="pass">Please enter the password to read the blog.</label>    <div class="bottom-line"></div>  </div></div><div id="decryptionError" style="display: none;">Incorrect Password!</div><div id="noContentError" style="display: none;">No content to display!</div><div id="encrypt-blog" style="display:none">U2FsdGVkX1+9WiyoXkwgXeuYw0sbSuVTN7j3TEmmjtr8ont4n1+BM63e+rh09BAW7E1l90OmvfJTULY5H9SXitUQVlWXY4aOKOZUtt3C996ZTiNcP1L1awM8rnXvbBnfVeJBnw3AqhJ/tJye/EJNXzlI3FwCIYWYab1p9DXJNy5lqE2JJRETyRQ6Wmu0K6cTExk+Tphu3dFKz2tKMWdQDKjASLEH8ZVo3z+Fq/YdIlYPlOkE+DIpl4XdQC2COe9ekMRGuiKbgtH3u33oo6H5xKLK/rFHJjACdGZB05eJLgZK+0fZvss8VpvoAFfE3wZPR3HDYIVtwhLX/78Wja5YtM3fw06OI8vCRKWl13BlZJfE1JZFaLebJb3IeGdKDpXYfdwbOF0DA58YXWtdJrNoFXXZXZxhZzfRVGNsUF/MzxjGz1IVhKiMEktz9/buHXhV0lWpU0NhXIrKgPx34SK/NNR+MV33CR5MB4cyvoSQD8SIoH26VZuzS+9/+rVMR9kp7hfd9CrnAYP45+WCLEPO2aI42juV29OqJqMlWy0nWoascKgdRmB9esuKLqvofgY4XmyWLmNJ8hUJdLC0el/soSQRFI1TzhIbpvy1vXTiKbytx9JtCX/RLWJK5hEgGlaSCZsbC3d6JzEu3EsKY9qvv0326XPN3HEaFZC53dcErpY9oeV3J+KNQWpHoYQ+2QDcUhGz0B/k+g0CksFhC3MV8DRU7xTJwklQRlQT2Bfu2rpupXcXd5Bakz+tet7Ml/Ozz+Lt9K7Q/60tl0BYCE5+7Z+Hpg+21OdN8mzTmqeWgBUl9U7fosl/fkl6Q9pCe9YJtZKmlqvL2ZUAN2/kcgHRFOOFgRMSZGdwlBRg+JdqJYbyEBBCrZSfjUlnqF2GvchP0xTAjmDM12F5nzb2P3pn8jYpyc5zoodRFo//Vw03M+5MwPtmaJwE+x9Mwzf2xHY7/fcb6wSVD7qz0a/G9kNSX3e0RH0lDJgydmIVsMXomFgri9QyPSXb60m4TGZ3ObrPrHPSI89mIMO/LKx6hMDAPrRY6UtehHRutfGowfTDq6GGrurRjljb4kcxlbboenKizI2MdhJovmE8kI14hrPGJou16bL6TN5M+kS0LnAH7HJr9ovDVfycMy+qV2WnCXPFP7qlUfJ50ZZCP/072Tgw8kWJbsekB3+WflEvXUFzCGAU6yhuo7OskewJdvBTA02vocOqrnhbURP1y96jsMOgPWojFANUmwxT4hHfrTGl74gcpo372Gwsth1ty1IBB0/AjYmIu/qnY0xZlCoowWY44Zr09x5JeUhAM7n23By9wLDOXsF2ToXv/4oeUs71Dj/49k/IhYapGNZNqmPdJLYU6REKSAKWtLJHR3Cm+6yuvuKfqyaFMjosHH6Gf+L4avr+Pl9wiSBFAVLQFD8NOVhsEirtyNR1h7TVOBIanSB2Zm08FMOzsbisf0XWx4y/OqSguOnmJmVcwuGOKg2Ylx9JAI48EkjUstoXZUbKbVMNJj323EO45F305OBvhpPoPOLw5AzZ0nsN9LF+NLkNeEIFnBoExFnKwpjj2Uq+42b/UOjjkkvhpBhd1AiodzqBJa4veKtbAlnbGL91cl3+NZVHLcBdw+ZY2BXd3WV5vvW6iSjP7Z8s13L8RoYp3j1mAsnFnrjHmzyuGdgdSfopmzpDeagvFSbqPnquZefp440MvH3Kbk7KP3Qh9ax07nkqqPJ6wljVAjia2K2yq4Qia74f18osOM9ydxr22pdJ3VPUFnw=</div><script src="/JietingHuang.github.io/lib/crypto-js.js"></script><script src="/JietingHuang.github.io/lib/blog-encrypt.js"></script><link href="/JietingHuang.github.io/css/blog-encrypt.css" rel="stylesheet" type="text/css">]]></content>
+    <content type="html"><![CDATA[<p>亦凄亦美</p><p>寒夜遥望隔岸灯火</p><p>此情此景</p><p>指尖轻点千丈落水</p><p>非敌非友</p><p>孤鸟长鸣下掸心愿</p><p>愿生愿死</p><p>痴情相守泪散千年</p><p><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAASwAAAEsCAMAAABOo35HAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAC9UExURVlZWdPT07KysmRkZIWFhfT09JmZmWZmZm9vb39/fxkZGUxMTDMzM3p6epCQkKamppubm729venp6cjIyN7e3tbW1s/Pz8LCwnx8fLS0tFZWVoiIiI+Pj6GhoeTk5Glpabu7u93d3evr66CgoJSUlKqqqsnJyeDg4Hd3d8PDw+Xl5bi4uNHR0dvb26Ojo6urq+fn51hYWDg4OCgoKHBwcK2traenp0FBQe7u7vHx8U5OTre3t8zMzHV1df///7GrnpQAAAA/dFJOU///////////////////////////////////////////////////////////////////////////////////AI4mfBcAAAUGSURBVHja7NoJb6M4GMZxY0NCD64kve/pMZ2d3Z297+X7f6zFNmBAMUXa6URl/q9UJSWPUPzrizFWRUlNLgEBWGCBBRZYYEEAFlhggQUWWBCABRZYYIEFFgRggQUWWGCBBQFYYIEFFlhgQQAWWGCBBRZYEIAFFlhggQUWBGCBBRZYYIEFAVhggQUWWGBBABZYYIEFFlgQgAUWWGCBBRYEYIEFFlhggQUBWGCBBRZYYEEAFlhggQUWWBCABRZYYIEFFgRggQUWWGCBBQFYYIEFFlhgQQAWWGCBBRZYEIAFFlhggQUWBGCBBRZYn6cCIcRXgvX/h9qcIVBqDdbEM8RCxGCB9QqXYRwHYDHBgwXWl8eKZKiESHI3Ba1kWs3fKixcaJUl1YyeBm7Ocq+yLItUiVBGnXxenSHJolIKEcwHq6ikbOX1YGVzQCTN8LPmSLreghUl9sN4Uw7yajMrLC0TZ1ImzqY6FEop0+pIaEN5HaoOxVuwEqFyc4I46uSlzOLqgxlh6UaR9l3VYWl9Fdoxb1Q90KJtu41pwwFW/WHhTtW8i7TafLCqRsk6bsGw63L9qurXRmuIlbT9lDQnlXU+nBFW1Q2qnZbDprWa2tjR90LZFqx1/+Td/HpGWLlrLDvIwTcx6dQ1Vrntbig68cDms3JwbA5Y1azs1ger6sNV/bbIw1jU81MvNAGrl58RVn8ozW+btF08iGFoAlYvP3csfVur1gJBEIA1uBmue5dhZDOyO2epbmgCVi8/I6x0MMHH9pjsTfBhNzQBq5uPZoQlB0uH3DZG4EZqQ26fL3sZq5uf09Ih6qw3i/pm6BZO0qZX7rrUS68Xsbr5ZE4rePMk08pk9aUZugfqppvs6AM1Acvlo/StP+6EbW06z8hJqxbYp2BZPQUnFsLsKuhQdaHqn5ewbF7KXIn0jWO5MqOQ7RaNLPtbNMmmhimj0GUmYLl8Gs0Lq4wyPbTu1l2QKqHSouzs3OlDIslW5SQsnY/NXmFplyNvEuuLV/Tau9BzwiraDUSwXmysztYWWNtL1psXeumgIrDGaqXvBfUuvtqUYI3V2t1wk1e2msFluJJm6zDJXv/fIfjPP7DAAgsssCiwwAILLLDAosACCyywwAKLAgsssMACC6zt9fDz/v75tyOB+98PD2+ORgKffjw4OP1uJPDxl+Xy8v1I4MPF3t7VNyOB4/vF4uzdzrG+39f1kz/w66Guv/yBvw90KX/gZKkr8Qf+2dOV+gNHC12/7RxrabD2/a31bLAO/a11YbAO/K21MFhLf2s9Gqw9f2vdGqzFu11jnVusE2/gxmI9eQOnFuvYG7i0WH7uK4t15w2cWazrXWP9a7H8f/bQYvm/6IPF+sF/pVssf19Ii/WH/0K2WH/uGuvEWC39gSdj9Twy+Rqri5EZx1gt/IE7Y/XoD1wbq9vd3w1PlufnD2OBp+ebm/uxwPHF6emnscDR4vLy41jg7vHq6sNY4Pr27OyYdRaLUrDAAosCCyywwAILLAossMACCyywKLDAAgsssMCiwAILLLDAAosCCyywwAILLAossMACCyywKLDAAgsssMCiwAILLLDAAosCCyywwAILLAossMACCyywKLDAAgsssMCiwAILLLDAAosCCyywwAILLAossMACCyywKLDAAgsssMCiwAILLLDAAosCCyywwAILLAossMACCyywKLDAAgsssL6u+k+AAQCR9eHtLKvLfwAAAABJRU5ErkJggg==" data-original="/photos/bibowen.jpg" alt="文波亲笔" title="文波亲笔"><span class="img-alt">文波亲笔</span></p>]]></content>
     
     <summary type="html">
     
-      The article has been encrypted, please enter your password to view.&lt;br&gt;
+      
+      
+        &lt;p&gt;亦凄亦美&lt;/p&gt;
+&lt;p&gt;寒夜遥望隔岸灯火&lt;/p&gt;
+&lt;p&gt;此情此景&lt;/p&gt;
+&lt;p&gt;指尖轻点千丈落水&lt;/p&gt;
+&lt;p&gt;非敌非友&lt;/p&gt;
+&lt;p&gt;孤鸟长鸣下掸心愿&lt;/p&gt;
+&lt;p&gt;愿生愿死&lt;/p&gt;
+&lt;p&gt;痴情相守泪散千年&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;data:image/png;
+      
+    
+    </summary>
+    
+      <category term="诗集" scheme="http://JietingHuang.github.io/categories/%E8%AF%97%E9%9B%86/"/>
+    
+    
+      <category term="诗歌" scheme="http://JietingHuang.github.io/tags/%E8%AF%97%E6%AD%8C/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>亲献</title>
+    <link href="http://JietingHuang.github.io/2019/08/14/poem-love/"/>
+    <id>http://JietingHuang.github.io/2019/08/14/poem-love/</id>
+    <published>2019-08-14T14:54:59.000Z</published>
+    <updated>2019-08-16T03:29:23.260Z</updated>
+    
+    <content type="html"><![CDATA[<script src="https://ajax.aspnetcdn.com/ajax/jQuery/jquery-3.4.1.min.js"></script><div id="hbe-security">  <div class="hbe-input-container">  <input type="password" class="hbe-form-control" id="pass" placeholder="输入密码 ❤ 查看文章" />    <label for="pass">输入密码 ❤ 查看文章</label>    <div class="bottom-line"></div>  </div></div><div id="decryptionError" style="display: none;">Incorrect Password!</div><div id="noContentError" style="display: none;">No content to display!</div><div id="encrypt-blog" style="display:none">U2FsdGVkX1/O6x3OVRG186cf5uThXP4HDaLiaGGI7ip3yu96V8KUBBZDq1lUVOMcpCkHB18t89PWSmf9ByCF5QdR95m6bn/tHYzzAVMCk4NW1+pgKxn/SiFIM5mLJpsDQvIDVbF0iI12EG0Nar2ssHQ0+5P1++gGOIGwABArNjDNQfoOOBmwFIvmZqmVJVr5dHbdOYStjCKFmQWQ74fpG4YhWgSlooqWILTzu6d24W2ztwcAgeyrN5AAnKcj+Zjxdbph+7ZY1TaTXZY8M22znZCmQL54RPzl6fW0EH6C/lqgnzpk6u1NxG2V18+gz0eGLuEbsQ1OFyacYJv+X32rf2dyb8Bm5g5iLlYc/RemPi9H1k/XBC9gskZh287OA0y4CVkUfiyEOzTZtLXNL7tjASapKZH03mSeZnmqorUjBMxFnhivAeg9UnXFgztbjXIdGYwKBeggf1Vax3YA7C/MEmUJiSxfAG3E7rXeB8xfwgIoTvtBBzLKfLkcX+2RBM7qNKeK9oQMsn3ddvUraVqAR6BaV6n9/4hCYL2UQbVP3HLe540t22653aKKHhMw71OqECgDT5gfLtiGhDBpAVsYRwnx9oQijqEUVKbBns7cCM+KEEml9aVhCo4BLvItJ0pFBhZ2KracCFGaWsevpfH2LJ38+avl35qkAzgm65//MRdfBh9Ix7dfFfIAvfgIFNW4e3rYUVXR9ng23U19ZkQad0o1T9uIAxBZTou6Ek6FEuJhsFpoKQkisRPg+7cfMmu5F7v0PMVReXCHzy3/8Ls2K5RL7+QnUVPQ4pfWc9prCUccZ4AgkwdZ+5qdDaC7Rk3D7bZKmGhmqKDC0wkAXUQPRcwSI3ujgHBB6g32mrUsCBqDxF+MAoEdgnIxSbJUYUeuAxIfD9qSD3s+ulMmnTD5wMfL/KrqBD5L0Ala6etCMM+hPirvv7HNQMRoeDpS3e0ynLeEFquAoSzpR2fT4HpMk7KUZ7Wpx3mJDQQM9njorx/sPRZp0wyXJ+DUtI4JhJtBPk48eI6BBSExMxRJpgvTw2xjO4YDkMJAJkr4zuTToXMn5Q3uV7adZxhPEMqNYPCeijI/xzi7zcdPb4ruBQVPUO+mne9JQ/uewLhwi6accIKS2moKEwn88uLxSRHyMwiQqch+gsoEYu3xaqWsJlddXTpq0H4zo4+ftf/yk2sSEZ13RWpHzhAbBdtUA6Nc0VlftOgUganz/GU5+GLtwpgAcUF6xYY+jLOYw0gwVq0q+494yiuC9rCuZ0CKhniNWrGR9legzMxtJOj8UMBuQiFr5xbfC+IaNcAa+TroriYUUYth5Nxn8RyKakjO1JHHme97OreCb2XeglI4no1BPm5YI/EbnmtgLoZCh/6Sb+BMHgJzzLV+4lnMee0xXP8vAD3PW+ztTy+ovjmqu5yHcczZH6j5lNxUvCjhxdP0WEE2BIZxaFcpd7AntFGli/hG1tsUDFdjLXFai0l0TG9r/2CZOCR+uBpKyR8oJtlzC7QXrI27FWskqS+NBzuPVcaGmBzjaWlDG9GMpwNB7wbI/49hW3qBs2O9sKPgwT2u+y8MRF8u3SXxadiUvx2FddI3VRieOf/qyVkpPF2jRqPtlzgHxQ==</div><script src="/JietingHuang.github.io/lib/crypto-js.js"></script><script src="/JietingHuang.github.io/lib/blog-encrypt.js"></script><link href="/JietingHuang.github.io/css/blog-encrypt.css" rel="stylesheet" type="text/css">]]></content>
+    
+    <summary type="html">
+    
+      文章上锁 | 备好钥匙
     
     </summary>
     
@@ -43,7 +76,7 @@
     <link href="http://JietingHuang.github.io/2019/08/13/friends/"/>
     <id>http://JietingHuang.github.io/2019/08/13/friends/</id>
     <published>2019-08-13T04:52:12.000Z</published>
-    <updated>2019-08-13T07:46:32.180Z</updated>
+    <updated>2019-08-16T01:49:35.304Z</updated>
     
     <content type="html"><![CDATA[<p><a href="https://i.youku.com/i/UMTM5NjIxOTUwMA==?spm=a2h0j.11185381.module_basic_dayu_sub.DL~DD~H2~A" target="_blank" rel="noopener">旅梦开发团自频道</a></p><p><a href="http://www.moretrue.cn/Home/My/detail.html" target="_blank" rel="noopener">叶志祥老师 - 慕楚教育</a></p><p><a href="https://jspang.com/" target="_blank" rel="noopener">技术胖</a></p><p><a href="http://www.ruanyifeng.com/home.html" target="_blank" rel="noopener">阮一峰</a></p><p><a href="https://www.zhangxinxu.com/" target="_blank" rel="noopener">张鑫旭</a></p><p><a href="https://www.cnblogs.com/rubylouvre/" target="_blank" rel="noopener">司徒正美</a></p><p><a href="https://hufangyun.com/" target="_blank" rel="noopener">小猿大圣</a></p><p><a href="https://www.phodal.com/" target="_blank" rel="noopener">Phodal</a></p><p><a href="https://coolshell.cn/" target="_blank" rel="noopener">酷壳</a></p><p><a href="https://36kr.com/" target="_blank" rel="noopener">36氪</a></p><p><a href="http://www.woshipm.com/" target="_blank" rel="noopener">人人都是产品经理</a></p><p>UI：<a href="https://uigradients.com/" target="_blank" rel="noopener">uigradients</a>、<a href="https://trianglify.io/" target="_blank" rel="noopener">trianglify.io</a></p><p>工具类：<a href="https://www.xiaopiu.com/user?uid=5cc4741eeacecd640fd59c83&libPop=project&libId=5cc721f8eacecd640fd658ef" target="_blank" rel="noopener">xiaopiu.com</a></p>]]></content>
     
@@ -66,7 +99,7 @@
     <link href="http://JietingHuang.github.io/2019/08/13/copyright/"/>
     <id>http://JietingHuang.github.io/2019/08/13/copyright/</id>
     <published>2019-08-13T04:28:05.000Z</published>
-    <updated>2019-08-13T07:46:42.500Z</updated>
+    <updated>2019-08-16T01:49:41.744Z</updated>
     
     <content type="html"><![CDATA[<p>首先感谢<a href="https://hexo.io/zh-cn/" target="_blank" rel="noopener">hexo</a>以及<a href="https://github.com/Youthink/hexo-themes-yearn" target="_blank" rel="noopener">Yearn</a>主题作者<a href="https://hufangyun.com/" target="_blank" rel="noopener">hufangyun小猿大圣</a>让我迅速搭建起自己喜欢的个人博客，<br>希望以后我能在自己的技术学习道路上越走越远，如我在首页所说：“路漫漫其修远兮，<br>吾将上下而求索 —— 学无止境。”</p><p>刚建立博客，虽然还未发表什么有价值性的文章，但我始终支持原创，也同是为了促进自己<br>的学习，若有转载或摘文，必定会<strong>注明出处</strong>。所以这里我也向小猿大圣学习学习，每篇文章<br>后面带上转载声明，创建文明共享网络。</p>]]></content>
     
