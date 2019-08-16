@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://JietingHuang.github.io/JietingHuang.github.io/2019/08/05/hello-world/</loc>
+    <lastmod>2019-08-16</lastmod>
+  </url>  <url>
+    <loc>http://JietingHuang.github.io/JietingHuang.github.io/2019/08/16/TTcircle/</loc>
+    <lastmod>2019-08-16</lastmod>
+  </url>  <url>
     <loc>http://JietingHuang.github.io/JietingHuang.github.io/2019/08/14/poem-love/</loc>
     <lastmod>2019-08-16</lastmod>
   </url>  <url>
@@ -12,8 +18,5 @@
   </url>  <url>
     <loc>http://JietingHuang.github.io/JietingHuang.github.io/2019/08/13/friends/</loc>
     <lastmod>2019-08-16</lastmod>
-  </url>  <url>
-    <loc>http://JietingHuang.github.io/JietingHuang.github.io/2019/08/05/hello-world/</loc>
-    <lastmod>2019-08-14</lastmod>
   </url>
 </urlset>
