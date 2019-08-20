@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://JietingHuang.github.io/2019/08/20/throttle/</loc>
+    
+    <lastmod>2019-08-20T10:44:46.387Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://JietingHuang.github.io/2019/08/20/debounce/</loc>
     
     <lastmod>2019-08-20T10:39:31.003Z</lastmod>
