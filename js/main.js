@@ -103,9 +103,11 @@
   
   
   //article page Topbar and title banckground
-  function pattern(width = window.innerWidth) {
+  function pattern() {
+    var width = arguments.length > 0 && arguments[0] !== undefined ? arguments[0] : window.innerWidth;
+
     return _trianglify_min_js__WEBPACK_IMPORTED_MODULE_1___default()({
-      width,
+      width: width,
       height: 230,
       variance: 0.56,
       cell_size: 46,
@@ -236,10 +238,10 @@
   }
   
   function keyDown() {
-    document.addEventListener('keydown', (event) => {
+    document.addEventListener('keydown', function (event) {
       var keyCode = event.keyCode;
       var ENTER = 13;
-      if (keyCode == ENTER ) {
+      if (keyCode == ENTER) {
         var searchResult = document.getElementById('search-result');
         var firstLiTag = searchResult.firstChild;
         var firstATag = firstLiTag && firstLiTag.firstChild;
