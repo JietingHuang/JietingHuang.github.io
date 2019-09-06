@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://JietingHuang.github.io/2019/09/06/clearFloat/</loc>
+    
+    <lastmod>2019-09-06T06:51:25.989Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://JietingHuang.github.io/2019/09/02/BFC/</loc>
+    
+    <lastmod>2019-09-06T04:31:58.675Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://JietingHuang.github.io/2019/09/05/fakeClass/</loc>
     
     <lastmod>2019-09-05T13:50:18.975Z</lastmod>
@@ -12,13 +26,6 @@
     <loc>http://JietingHuang.github.io/2019/09/04/box-sizing/</loc>
     
     <lastmod>2019-09-04T05:36:32.255Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://JietingHuang.github.io/2019/09/02/BFC/</loc>
-    
-    <lastmod>2019-09-03T15:13:19.241Z</lastmod>
     
   </url>
   
