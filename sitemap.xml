@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://JietingHuang.github.io/2019/09/07/layout/</loc>
+    
+    <lastmod>2019-09-09T13:17:06.978Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://JietingHuang.github.io/2019/08/22/Thinking/</loc>
+    
+    <lastmod>2019-09-09T01:02:23.476Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://JietingHuang.github.io/2019/09/05/fakeClass/</loc>
     
     <lastmod>2019-09-07T05:30:05.789Z</lastmod>
@@ -75,13 +89,6 @@
     <loc>http://JietingHuang.github.io/2019/08/29/findDOM/</loc>
     
     <lastmod>2019-08-30T04:58:47.487Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://JietingHuang.github.io/2019/08/22/Thinking/</loc>
-    
-    <lastmod>2019-08-30T04:50:38.361Z</lastmod>
     
   </url>
   
