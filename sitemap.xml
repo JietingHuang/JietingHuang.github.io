@@ -2,9 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://JietingHuang.github.io/2019/09/01/unit/</loc>
+    
+    <lastmod>2019-09-10T15:10:19.947Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://JietingHuang.github.io/2019/09/02/BFC/</loc>
+    
+    <lastmod>2019-09-10T15:06:48.602Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://JietingHuang.github.io/2019/09/05/fakeClass/</loc>
+    
+    <lastmod>2019-09-10T15:04:38.093Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://JietingHuang.github.io/2019/09/06/clearFloat/</loc>
+    
+    <lastmod>2019-09-10T15:02:41.340Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://JietingHuang.github.io/2019/09/07/layout/</loc>
     
-    <lastmod>2019-09-09T13:17:06.978Z</lastmod>
+    <lastmod>2019-09-10T15:00:05.376Z</lastmod>
     
   </url>
   
@@ -16,37 +44,9 @@
   </url>
   
   <url>
-    <loc>http://JietingHuang.github.io/2019/09/05/fakeClass/</loc>
-    
-    <lastmod>2019-09-07T05:30:05.789Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://JietingHuang.github.io/2019/09/06/clearFloat/</loc>
-    
-    <lastmod>2019-09-06T06:51:25.989Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://JietingHuang.github.io/2019/09/02/BFC/</loc>
-    
-    <lastmod>2019-09-06T04:31:58.675Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://JietingHuang.github.io/2019/09/04/box-sizing/</loc>
     
     <lastmod>2019-09-04T05:36:32.255Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://JietingHuang.github.io/2019/09/01/unit/</loc>
-    
-    <lastmod>2019-09-03T06:43:36.916Z</lastmod>
     
   </url>
   
