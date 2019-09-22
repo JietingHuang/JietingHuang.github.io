@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://JietingHuang.github.io/JietingHuang.github.io/2019/09/22/arrowFunc/</loc>
+    <lastmod>2019-09-22</lastmod>
+  </url>  <url>
+    <loc>http://JietingHuang.github.io/JietingHuang.github.io/2019/09/04/box-sizing/</loc>
+    <lastmod>2019-09-22</lastmod>
+  </url>  <url>
     <loc>http://JietingHuang.github.io/JietingHuang.github.io/2019/09/14/dailyBook/</loc>
     <lastmod>2019-09-21</lastmod>
   </url>  <url>
@@ -27,9 +33,6 @@
   </url>  <url>
     <loc>http://JietingHuang.github.io/JietingHuang.github.io/2019/09/07/layout/</loc>
     <lastmod>2019-09-10</lastmod>
-  </url>  <url>
-    <loc>http://JietingHuang.github.io/JietingHuang.github.io/2019/09/04/box-sizing/</loc>
-    <lastmod>2019-09-04</lastmod>
   </url>  <url>
     <loc>http://JietingHuang.github.io/JietingHuang.github.io/2019/08/27/Blockchain/</loc>
     <lastmod>2019-09-03</lastmod>
