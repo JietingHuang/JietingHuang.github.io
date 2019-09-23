@@ -2,9 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://JietingHuang.github.io/2019/09/14/dailyBook/</loc>
+    
+    <lastmod>2019-09-23T11:26:59.093Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://JietingHuang.github.io/2019/09/23/call/</loc>
+    
+    <lastmod>2019-09-23T07:32:17.694Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://JietingHuang.github.io/2019/08/24/webpack/</loc>
+    
+    <lastmod>2019-09-23T03:21:47.514Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://JietingHuang.github.io/2019/09/22/arrowFunc/</loc>
     
-    <lastmod>2019-09-22T12:10:36.604Z</lastmod>
+    <lastmod>2019-09-23T02:45:39.626Z</lastmod>
     
   </url>
   
@@ -12,13 +33,6 @@
     <loc>http://JietingHuang.github.io/2019/09/04/box-sizing/</loc>
     
     <lastmod>2019-09-22T11:05:23.495Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://JietingHuang.github.io/2019/09/14/dailyBook/</loc>
-    
-    <lastmod>2019-09-21T07:57:01.806Z</lastmod>
     
   </url>
   
@@ -117,13 +131,6 @@
     <loc>http://JietingHuang.github.io/2019/08/25/cooperation/</loc>
     
     <lastmod>2019-08-25T13:26:15.893Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://JietingHuang.github.io/2019/08/24/webpack/</loc>
-    
-    <lastmod>2019-08-24T14:20:17.709Z</lastmod>
     
   </url>
   

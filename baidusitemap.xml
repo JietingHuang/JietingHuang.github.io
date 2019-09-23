@@ -1,14 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://JietingHuang.github.io/JietingHuang.github.io/2019/09/14/dailyBook/</loc>
+    <lastmod>2019-09-23</lastmod>
+  </url>  <url>
+    <loc>http://JietingHuang.github.io/JietingHuang.github.io/2019/09/23/call/</loc>
+    <lastmod>2019-09-23</lastmod>
+  </url>  <url>
+    <loc>http://JietingHuang.github.io/JietingHuang.github.io/2019/08/24/webpack/</loc>
+    <lastmod>2019-09-23</lastmod>
+  </url>  <url>
     <loc>http://JietingHuang.github.io/JietingHuang.github.io/2019/09/22/arrowFunc/</loc>
-    <lastmod>2019-09-22</lastmod>
+    <lastmod>2019-09-23</lastmod>
   </url>  <url>
     <loc>http://JietingHuang.github.io/JietingHuang.github.io/2019/09/04/box-sizing/</loc>
     <lastmod>2019-09-22</lastmod>
-  </url>  <url>
-    <loc>http://JietingHuang.github.io/JietingHuang.github.io/2019/09/14/dailyBook/</loc>
-    <lastmod>2019-09-21</lastmod>
   </url>  <url>
     <loc>http://JietingHuang.github.io/JietingHuang.github.io/2019/08/31/prototype/</loc>
     <lastmod>2019-09-21</lastmod>
@@ -51,9 +57,6 @@
   </url>  <url>
     <loc>http://JietingHuang.github.io/JietingHuang.github.io/2019/08/25/cooperation/</loc>
     <lastmod>2019-08-25</lastmod>
-  </url>  <url>
-    <loc>http://JietingHuang.github.io/JietingHuang.github.io/2019/08/24/webpack/</loc>
-    <lastmod>2019-08-24</lastmod>
   </url>  <url>
     <loc>http://JietingHuang.github.io/JietingHuang.github.io/2019/08/23/jsType/</loc>
     <lastmod>2019-08-23</lastmod>
